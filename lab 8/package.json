@@ -1,0 +1,15 @@
+{
+  "name": "blog-api-server",
+  "version": "1.0.0",
+  "description": "Simple blog post API with comments",
+  "main": "lab8.js",
+  "scripts": {
+    "start": "node lab8.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
